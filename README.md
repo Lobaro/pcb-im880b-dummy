@@ -1,2 +1,8 @@
 # pcb-im880b-dummy
-Dummy project for im880b dimensions &amp; pinout
+Skeleton KiCad Project for iM880b LoRa Module from www.imst.com
+
+* Minimal Schematic 
+* Module Footprint
+
+Download KiCad here: 
+http://kicad-pcb.org/download/
